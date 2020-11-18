@@ -10,7 +10,7 @@ get to work.
 ## Setup
 
 Building this project requires that Ivy be available to Ant. All you
-need is ivy.jar in Ant's classpath (in your `$CLASSPATH`,
+need is ivy.jar in Ant's classpath (in your `$CLASSPATH`, ddffdfsfdf
 `$ANT_HOME/lib`, or `~/.ant/lib`).
 
 ## Dependencies
